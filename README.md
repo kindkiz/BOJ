@@ -3,7 +3,8 @@
 =============
 Baekjoon Online Judge
 ## Profile
-<a href="https://solved.ac/profile/rarity"><img src="https://static.solved.ac/tier_small/14.svg" width = "20px" height = "20px"></img></a>  <b>rarity</b>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rarity)](https://solved.ac/rarity)
+ <b>rarity</b>
 
 Baekjoon: https://www.acmicpc.net/user/rarity
 
